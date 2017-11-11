@@ -3,6 +3,6 @@ package package1
 object FirstObject {
   
   def main(args: Array[String]): Unit = {
-    print("dsad")
+    print("Hello world!!!")
   }
 }
