@@ -12,6 +12,8 @@ object List1 {
     val numbers2 = 1 :: (2 :: (3 :: Nil))
     
     println(alphabets)
+    println(alphabets.apply(0)) 
+    println(alphabets(0)) //short way 
     
     //Iterate through each element
     for (i <- alphabets)
