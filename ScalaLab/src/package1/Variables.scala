@@ -2,9 +2,9 @@ package package1
 
 object Variables {
   def main(args: Array[String]): Unit = {
-    println("variable declaration method:" + varDeclaration())
+    println("Variable declaration method:" + varDeclaration())
     println("Value declaration method:" + valDeclaration())
-    println("variableDeclarationtypes" + varDeclaration())
+    println("Variable Declaration types" + varDeclaration())
   }
 
   
